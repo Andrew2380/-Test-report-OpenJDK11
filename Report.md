@@ -16,7 +16,7 @@
 
 **В результате тестирования выявлены следующие дефекты:**
 
-@https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/1
+[Запуск команды приложения KeyValidator в командной строке (GIT Bash)](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/1)
 
 
 ## Описание процесса тестирования
