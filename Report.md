@@ -24,6 +24,8 @@
 
 [Проверка валидных ключей при запуске приложения KeyValidator в командной строке (GIT Bash )](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/2)
 
+[Проверка не валидных ключей при запуске приложения KeyValidator в командной строке (GIT Bash )](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/3)
+
 
 ## Описание процесса тестирования
 
@@ -42,7 +44,7 @@
 
 [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
-(https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/3)
+
 
 **Ожидаемый и фактический результат тестирования**
 
