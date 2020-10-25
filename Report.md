@@ -1,4 +1,4 @@
-# Отчёт о тестировании приложения OpenJDK11
+# Отчёт о тестировании приложений OpenJDK11,KeyValidator
 
 **Задачи**
 
@@ -21,6 +21,7 @@
 **В результате тестирования выявлены следующие дефекты:**
 
 [Запуск команды приложения KeyValidator в командной строке (GIT Bash)](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/1)
+
 [Проверка валидных ключей при запуске приложения KeyValidator в командной строке (GIT Bash )](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/2)
 
 
