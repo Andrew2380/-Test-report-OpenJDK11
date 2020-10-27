@@ -20,11 +20,11 @@
 
 **В результате тестирования выявлены следующие дефекты:**
 
-[Запуск команды приложения KeyValidator в командной строке (GIT Bash)](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/1)
+[При запуске команды приложения KeyValidator в командной строке (GIT Bash) вывод отображается не корректно](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/1)
 
-[Проверка валидных ключей при запуске приложения KeyValidator в командной строке (GIT Bash )](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/2)
+[При проверке валидных ключей в GIT Bash вывод отображается не корректно ](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/2)
 
-[Проверка не валидных ключей при запуске приложения KeyValidator в командной строке (GIT Bash )](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/3)
+[При проверке не валидного ключа в GIT Bash вывод отображается не корректно](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/3)
 
 
 ## Описание процесса тестирования
