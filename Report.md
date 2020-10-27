@@ -22,7 +22,7 @@
 
 [При запуске команды приложения KeyValidator в командной строке (GIT Bash) вывод отображается не корректно](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/1)
 
-[При проверке валидных ключей в GIT Bash вывод отображается не корректно ](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/2)
+[Валидный ключ  в GIT Bash отображается не корректно ](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/2)
 
 [Не валидный ключ в GIT Bash отображается не корректно](https://github.com/Andrew2380/-Test-report-OpenJDK11/issues/3)
 
